@@ -1,0 +1,12 @@
+ungrouped:
+  hosts:
+    - example.com
+    - example.org
+    - example.net
+  webservers:
+    - example.com
+    - example.org
+  dbservers:
+    - two.example.com
+    - three.example.com
+  
